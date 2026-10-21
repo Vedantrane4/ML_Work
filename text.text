@@ -1,0 +1,33 @@
+1. About the Hackathon
+
+
+
+
+Item
+Details
+What to build
+A new agentic AI solution on AWS for a real customer use case, using at least one of AWS End User Messaging (SMS/RCS), AWS End User Messaging Social (WhatsApp) or Amazon SES. Amazon Bedrock AgentCore is recommended for the agent layer.
+Prizes
+USD 40,000 in total: USD 18K / 8K / 4K for the top three, plus USD 10K for Best of WhatsApp (sponsored by Meta). Winners also get AWS Marketplace listing enablement and go-to-market support, and the top entry gets a joint case study with AWS.
+Deadline
+29 October, 1:30 AM IST (28 October, 1:00 PM PT)
+Details and registration
+aws-cds-partner.devpost.com (see also the Official Rules)
+2. Ideas That Match Work You're Already Pursuing
+
+Farmer and supplier engagement agent
+
+An agent that works mainly over WhatsApp. It gives crop advisory and procurement updates, schedules collections, and handles supplier document submission and payment confirmations. SMS covers feature-phone users and email handles formal communication. The rural impact story makes it a strong candidate for the WhatsApp prize.
+
+BFSI distributor and relationship-manager productivity agent
+
+One reusable build for lending, insurance and asset-management distribution. It covers lead nudges, product Q&A and document follow-ups over WhatsApp, with daily email summaries. Because it works across several BFSI clients, it would make a good AWS Marketplace offering.
+
+Other options: SalesAI for ITC Infotech, a retailer/distributor ordering agent for trade marketing and distribution, a guest engagement agent for hospitality, or an internal IT helpdesk agent. 
+
+3. Things to Keep in Mind
+
+The solution must be built during the submission period, which started on 14 September. Please use synthetic data only, and don't name clients in the submission unless they've agreed.
+Each entry needs a new ACE opportunity tagged with the campaign code "AWS CDS Agentic AI Hackathon -Sept. 2026".
+Team members should register with their @itcinfotech.com email and your full company name as registered in the AWS Partner Network.
+AWS runs office hours for participants every Wednesday at 5:30 AM IST, up to 28 October.
